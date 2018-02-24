@@ -1,6 +1,8 @@
 ------------------------------------------------------------------------------------
                  First project in gitHub
 ------------------------------------------------------------------------------------
-关于git的基本使用说明的相关链接：
-                               http://blog.csdn.net/javaandroid730/article/details/53522872
-                               https://www.cnblogs.com/eedc/p/6168430.html
+关于git的基本使用说明的相关链接：http://blog.csdn.net/javaandroid730/article/details/53522872    https://www.cnblogs.com/eedc/p/6168430.html
+*****************************相关笔记目录
+存储过程                     存储过程学习随手记.docx
+触发器                       触发器学习随手记.docx
+后续笔记，持续更新中。。。。。。。。。。
